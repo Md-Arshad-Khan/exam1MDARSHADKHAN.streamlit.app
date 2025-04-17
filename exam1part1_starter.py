@@ -602,3 +602,10 @@ df.to_csv('clean_df.csv')
 
 # checking the shape of the final Dataframe (number of rows and columns)
 print("Number of rows and columns:", df.shape)
+
+
+
+################=================================== PART 2 ========================================#####################
+
+
+
