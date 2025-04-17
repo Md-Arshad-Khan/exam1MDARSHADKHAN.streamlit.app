@@ -43,6 +43,7 @@ You will be using this data for the first part of the exam. A slightly cleaned v
 
 import pandas as pd
 import matplotlib.pylab as plt
+import plotly.express as px
 
 """<h2>Reading the dataset from the URL and adding the related headers</h2>
 
